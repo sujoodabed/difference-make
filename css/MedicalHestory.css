@@ -1,0 +1,66 @@
+label{
+    margin-top: 3%;
+    color: #fed136;
+    
+}
+#fname ,#email{
+    margin: 3%;
+    
+}
+#phoneNumber ,#birthDate{
+    margin:1%;
+}
+
+#male , #female , #gender {
+    margin: 1%;
+}
+.radio-inline{
+    margin-right: 2%;
+}
+p{
+    color: white;
+    margin-top: 2%;
+    font-size: 28px;
+}
+
+#ch1 ,#ch2 ,#ch4{
+    margin: .5%;
+}
+#vegan , #gender,#vegaterian{
+    font-size: 30px;
+}
+#vegan1,#vegan2,#vegaterian1,#vegaterian2{
+    margin: 5px;
+}
+
+.services .container{
+    overflow: hidden;
+}
+.services  .item{
+    float: left;
+    width: 25%;
+}
+
+.item i{
+    font-size: 50px;
+    color: #fff;
+    background-color: #fed136;
+    border-radius: 50%;
+    padding: 30px;
+    margin-top: 20px;
+    transition: all 1s;
+}
+.item h3 a{
+    color: #fff;
+    margin-top: 20px ;
+    font-size: 27px;
+    text-decoration: none;
+    text-transform: capitalize;
+    font-family: "Droid Serif", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+.item i:hover{
+    color:#fff;
+    background: #fed136;
+    transform: rotate(360deg) scale(1.3);
+}

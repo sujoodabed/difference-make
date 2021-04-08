@@ -1,0 +1,17 @@
+body{
+    background-color: #fed136;
+}
+img{
+    width: 300px;
+    height: 300px;
+    margin: 30px;
+}
+.mail-veg{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.mail-veg div img{
+    border:#FFF solid 10px; 
+    border-radius: 10px;
+}

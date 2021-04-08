@@ -1,0 +1,17 @@
+body{
+    background-color: #fed136;;
+}
+img{
+    width: 300px;
+    height: 300px;
+    margin: 30px;
+}
+.mail-ani{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.mail-ani div img{
+    border:#FFF solid 10px; 
+    border-radius: 10px;
+}
